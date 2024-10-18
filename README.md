@@ -47,7 +47,7 @@ It scrapes news articles from the web, analyzes their sentiment, generates news 
     pip install -r requirements.txt
     ```
 
-4. Add your API keys (e.g., LLM, scraping API) as environment variables or in a `.env` file.
+4. Add your `Groq API key` as environment variables or in a `.env` file.
 
 ## Usage
 
