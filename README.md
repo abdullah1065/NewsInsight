@@ -14,15 +14,15 @@ It scrapes news articles from the web, analyzes their sentiment, generates news 
 
 ```bash
 ├── NewsInsight
-│   ├── scraper.py              # Script for scraping news articles
-│   ├── llm_analyzer.py             # Script for analyzing the articles
+│   ├── scraper.py              
+│   ├── llm_analyzer.py            
 │   └── utils.py   
 ├── main.py   
 ├── scraped_news_raw.json   
-├── analyzed_news.json              # Test scripts for validating functionalities
-├── .gitignore                  # Git ignore file
-├── requirements.txt            # Project dependencies
-└── README.md                   # Project documentation
+├── analyzed_news.json              
+├── .gitignore                  
+├── requirements.txt         
+└── README.md                   
 ```
 
 ## Installation
@@ -38,7 +38,7 @@ It scrapes news articles from the web, analyzes their sentiment, generates news 
 
     ```bash
     python -m venv venv
-    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate  
     ```
 
 3. Install the required dependencies:
