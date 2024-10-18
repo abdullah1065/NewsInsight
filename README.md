@@ -30,7 +30,7 @@ It scrapes news articles from the web, analyzes their sentiment, generates news 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/NewsInsight.git
+    git clone https://github.com/abdullah1065/NewsInsight.git
     cd NewsInsight
     ```
 
