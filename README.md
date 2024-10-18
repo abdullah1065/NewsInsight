@@ -5,7 +5,7 @@ It scrapes news articles from the web, analyzes their sentiment, generates news 
 ## Features
 
 - **News Scraping**: Extracts news articles from specified news portals.
-- **Sentiment Analysis**: Uses a pre-trained LLM model to classify news sentiment as `Positive`, `Neutral`, or `Negative`.
+- **Sentiment Analysis**: Uses a pre-trained LLM [llama3] model to classify news sentiment as `Positive`, `Neutral`, or `Negative`.
 - **News Scoring**: Generates a score based on the length and relevance of the article.
 - **International Perspective**: Determines if the article discusses global or international issues.
 - **JSON Output**: Saves the analyzed data in a structured JSON format.
